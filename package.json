@@ -1,6 +1,6 @@
 {
   "name": "gulp-ng-constant-fork",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "description": "Gulp plugin for dynamic generation of angular constant modules. Forked version of https://github.com/guzart/gulp-ng-constant with extra options.",
   "main": "index.js",
   "repository": {
